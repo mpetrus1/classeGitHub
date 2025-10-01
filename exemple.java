@@ -4,7 +4,7 @@
 public class branques{
 
 	public static void main (String[] args){
-		a+b;
+		a+b*c;
 	}
 
 }
