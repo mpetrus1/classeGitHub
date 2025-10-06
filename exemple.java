@@ -10,7 +10,6 @@ public class branques{
 	public static void main (String[] args){
 
 		a+b*c;
-		b = c + d;
 
 
 	}
